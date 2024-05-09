@@ -1,0 +1,135 @@
+body{
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%  ;
+    image-resolution: 100px;
+}
+
+#abcd {
+    color:peachpuff;
+    text-align: center;
+    font-size: large;
+    
+}
+
+#lab{
+    font-size: xxx-large;
+    color: aquamarine;
+    font-family: cursive;
+    text-decoration: wavy underline lightcyan;
+}
+
+
+
+#btn1{
+    font-size: large;
+}
+
+#d{
+    color: gray;
+}
+
+
+#m{
+    color: chocolate;
+}
+
+#h1{
+    font-size: xx-large;
+    font-family: Algerian;
+    color: burlywood;
+}
+#label3
+{
+    font-size: x-large;
+    color: turquoise;
+}
+
+#div1{
+    margin-left: 60px;
+    max-width: 350px;
+    margin-left: 100px ;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#field{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 6px;
+    display: inline block;
+    border: 2px double;
+    border-radius: 4px ;
+    font-size: larger;
+    box-sizing: border-box;
+}
+#a{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+    
+}
+#b{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+#b{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+}
+#d{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+}
+#e{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+}
+#f{
+    color: grey;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#black{
+    font-size: xxx-large;
+    color: burlywood;
+    text-align: center;
+}
+
+#for1{
+    text-align: center;
+}
+#log2{
+    margin-left: auto ;
+}
+#login{
+    margin-left: 500px;
+}
+#head{
+    color: greenyellow;
+    font-weight: bolder;
+}
+#header{
+    color: springgreen;
+    font-weight: bold;
+}
+#former{
+    text-align: center;
+    font-size: xx-large;
+}
+#formerer{
+    font-size: xxx-large;
+    color: burlywood;
+    text-align: center;
+}
+
+
+
+
